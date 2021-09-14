@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.stripe1{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    box-sizing: border-box;
+    padding: 30px;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+}
+
+.stripe2{
+    width: 100%;
+    height: 100px;
+    box-sizing: border-box;
+    padding: 100px;
+}
+
+.text {
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+
+.stripe3{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+
+.stripe4{
+    width: 100%;
+    height: 100px;
+    background-color: turquoise;
+}
+
+.stripe5{
+    width: 100%;
+    height: 100px;
+    background-color: lightgreen;
+}
+
+.stripe6{
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+}
